@@ -1,5 +1,3 @@
-# library-management-system
-
 # Library Management System (Python + MySQL)
 
 A simple command-line based Library Management System built using Python and MySQL.
